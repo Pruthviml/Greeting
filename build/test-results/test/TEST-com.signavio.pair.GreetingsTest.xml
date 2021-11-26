@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.signavio.pair.GreetingsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-26T11:13:57" hostname="FVFGG1LUQ05N" time="0.024">
+  <properties/>
+  <testcase name="testGreeting_greeting1_NameDisplayed()" classname="com.signavio.pair.GreetingsTest" time="0.024"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
